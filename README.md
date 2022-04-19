@@ -33,7 +33,7 @@ I am a Full-Stack Software Engineer who enjoys creating something people or I wa
 ### **Testing and Deployment:**
 ![Postman](https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify%20-%e6d5a4e0.svg?&style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify%20-%#151a1e.svg?&style=flat-square)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23880000.svg?&style=flat-square)
 
 <!--
