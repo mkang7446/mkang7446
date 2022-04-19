@@ -10,9 +10,7 @@ I am a Full-Stack Software Engineer who enjoys creating something people or I wa
 
 ### Recent Projects : 
 * CamPIN (<a href="https://github.com/mkang7446/CamPIN-frontend">Frontend</a> / <a href="https://github.com/mkang7446/CamPIN-backend">Backend</a>)
-* RAM-Electronic
-<a href="https://github.com/mkang7446/ram-electronics-frontend">Frontend</a>
-<a href="https://github.com/mkang7446/ram-electronics-backend">Backend</a>
+* RAM-Electronic (<a href="https://github.com/mkang7446/ram-electronics-frontend">Frontend</a> / <a href="https://github.com/mkang7446/ram-electronics-backend">Backend</a>)
 * <a href="https://github.com/mkang7446/TriFle">TriFle (Frontend)</a>
 
 ## 🔧 Technologies & Tools:
