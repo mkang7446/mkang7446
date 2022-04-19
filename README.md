@@ -1,6 +1,6 @@
-## Hi there I'm Mason <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there I'm Mason <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align='center'>
+<p>
   <a href="mailto:mkang7446@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mkang7446@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/masonkang/" target="_blank"><img src="https://img.shields.io/badge/Mason%20Kang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/mkang7446" target="_blank"><img src="https://img.shields.io/badge/mkang7446%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a> 
