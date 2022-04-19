@@ -6,7 +6,7 @@
   <a href="https://github.com/mkang7446" target="_blank"><img src="https://img.shields.io/badge/mkang7446%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a> 
 </p>
 
-##### I am a Full-Stack Software Engineer who enjoys creating something people or I want with my skills and abilities. 
+#### I am a Full-Stack Software Engineer who enjoys creating something people or I want with my skills and abilities. 
 
 ## Recent Projects : 
 * CamPIN (<a href="https://github.com/mkang7446/CamPIN-frontend">Frontend</a> / <a href="https://github.com/mkang7446/CamPIN-backend">Backend</a>)
