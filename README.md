@@ -36,13 +36,6 @@ I am a Full-Stack Software Engineer who enjoys creating something people or I wa
 ![Netlify Status](https://api.netlify.com/api/v1/badges/e6d5a4e0-dee1-4261-833e-2f47f509c68f/deploy-status)]
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23880000.svg?&style=flat-square)
 
-### **Developer Tools:**
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel%20-F9DC3e?style=flat-square&logo=babel&logoColor=black)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
 <!--
 **mkang7446/mkang7446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
