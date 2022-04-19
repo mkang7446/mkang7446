@@ -20,6 +20,7 @@ I am a Full-Stack Software Engineer who enjoys creating something people or I wa
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=python&logoColor=white)
 
 ### **Back End:**
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
@@ -27,13 +28,12 @@ I am a Full-Stack Software Engineer who enjoys creating something people or I wa
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%232187B6.svg?&style=flat-square&logo=postgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
-![Axios](https://img.shields.io/badge/-Axios-blueviolet)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-squar&logo=django&logoColor=white)
 
 ### **Testing and Deployment:**
 ![Postman](https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify%20-%23880000.svg?&style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify%20-%2343853D.svg?&style=flat-square)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23880000.svg?&style=flat-square)
 
 ### **Developer Tools:**
