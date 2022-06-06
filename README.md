@@ -1,4 +1,4 @@
-# Hi there I'm Mason <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+# Hi there I'm Mason <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 <p>
   <a href="mailto:mkang7446@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mkang7446@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
